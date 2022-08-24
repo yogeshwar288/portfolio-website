@@ -21,6 +21,7 @@ idna==3.2
 ipykernel==6.2.0
 ipython==7.26.0
 ipython-genutils==0.2.0
+pywin32==30
 itsdangerous==2.0.1
 jedi==0.18.0
 Jinja2==3.0.1
